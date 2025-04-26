@@ -23,6 +23,8 @@ YANDEX Algorithm Trainings
 
 - [7.0](https://github.com/Mikalai-Khalamau/Programming/tree/main/CodeForces%2C%20YANDEX%2C%20Olympiads/YANDEX%20Trainings%207.0)
 
+  [CV](file:///C:/Users/khala/Downloads/Mikalai_Khalamau_-_Backend_Development_School.pdf)
+
 
 
 
