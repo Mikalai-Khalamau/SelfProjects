@@ -1,6 +1,9 @@
 # SelfProjects
 My pet projects and works
 
+[CV](https://github.com/Mikalai-Khalamau/Programming/blob/main/Mikalai_Khalamau_-_Backend_Development_School.pdf)
+
+
 C++
 
 - [MyPaint](https://github.com/Mikalai-Khalamau/BAAP2/tree/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%E2%84%961/Task_2)
@@ -23,7 +26,6 @@ YANDEX Algorithm Trainings
 
 - [7.0](https://github.com/Mikalai-Khalamau/Programming/tree/main/CodeForces%2C%20YANDEX%2C%20Olympiads/YANDEX%20Trainings%207.0)
 
-  [CV](file:///C:/Users/khala/Downloads/Mikalai_Khalamau_-_Backend_Development_School.pdf)
 
 
 
