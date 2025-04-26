@@ -1,7 +1,7 @@
 # SelfProjects
 My pet projects and works
 
- C++
+C++
 
 - [MyPaint](https://github.com/Mikalai-Khalamau/BAAP2/tree/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%E2%84%961/Task_2)
 
@@ -9,13 +9,13 @@ My pet projects and works
 
 - [Electronic Wedding system](https://github.com/Mikalai-Khalamau/BAAP2/tree/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962/Task_2/ElectronicWedding)
 
-  C#
+C#
 
-  - [Console Application for simulation Housing Service working](https://github.com/Mikalai-Khalamau/Programming/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965/Collections)
+- [Console Application for simulation Housing Service working](https://github.com/Mikalai-Khalamau/Programming/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965/Collections)
  
-  C
+C
 
- - [Magic Square solve with Google Tests](https://github.com/Mikalai-Khalamau/BAAP/tree/master/%D0%9E%D0%90%D0%B8%D0%9F/LR4/LabWork4_PartC/Task_6)
+- [Magic Square solve with Google Tests](https://github.com/Mikalai-Khalamau/BAAP/tree/master/%D0%9E%D0%90%D0%B8%D0%9F/LR4/LabWork4_PartC/Task_6)
 
 YANDEX Algorithm Trainings
 
